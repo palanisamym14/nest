@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@apollo/federation": "0.33.9",
-    "@apollo/gateway": "0.46.0",
+    "@apollo/gateway": "2.2.0",
     "@apollo/subgraph": "0.1.5",
     "@nestjs/apollo": "9.2.5",
     "@nestjs/common": "8.2.3",
@@ -32,7 +32,7 @@
     "graphql": "15.7.2",
     "graphql-tools": "7.0.5",
     "reflect-metadata": "0.1.13",
-    "rimraf": "3.0.2",
+    "rimraf": "4.0.0",
     "rxjs": "7.4.0",
     "ts-morph": "12.2.0"
   },
