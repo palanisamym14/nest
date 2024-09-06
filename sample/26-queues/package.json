@@ -20,10 +20,10 @@
   },
   "dependencies": {
     "@nestjs/bull": "0.4.2",
-    "@nestjs/common": "8.2.3",
+    "@nestjs/common": "9.0.0",
     "@nestjs/core": "8.2.3",
     "@nestjs/platform-express": "8.2.3",
-    "bull": "3.29.3",
+    "bull": "4.11.0",
     "dotenv": "10.0.0",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
