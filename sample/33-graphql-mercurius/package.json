@@ -27,7 +27,7 @@
     "class-transformer": "0.4.0",
     "class-validator": "0.13.2",
     "graphql": "16.3.0",
-    "mercurius": "9.2.0",
+    "mercurius": "9.4.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.4.0"
   },
